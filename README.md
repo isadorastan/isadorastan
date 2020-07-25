@@ -1,7 +1,8 @@
 # Hey 👋
 
 My name is Isadora Stangarlin, I'm from Brazil 🇧🇷
-I'm A Computer Engineer, that has been working as a Front-end developer since 2018.  👩🏼‍💻
+
+I'm A Computer Engineer, that has been working as a Front-End developer since 2018.  👩🏼‍💻
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
