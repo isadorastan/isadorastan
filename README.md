@@ -1,17 +1,15 @@
 # Hey 👋
 
-My name is Isadora Stangarlin, I'm from Brazil 🇧🇷
+My name is Isadora Stangarlin 👩🏼‍🇧🇷
 
-I'm A Computer Engineer, that has been working as a Front-End developer since 2018.  👩🏼‍💻
+I'm A Computer Engineer, that has been working as a Front-End developer since 2018.  💻
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
-
-### Pe
 
 ### 🌍 "Quanto mais eu sei, mais eu sou" 🧠
 
 - 📍 From RS living in Beagah
-- 👩🏼‍ 💻Front-End engineer at [Avenue Code](https://www.avenuecode.com/)
+- 💻 Front-End engineer at [Avenue Code](https://www.avenuecode.com/)
 - 🌈 Sharing a little of my Front-End journey at [Papo de Dev](https://www.instagram.com/papodedev/) 
 
 Reach me out 👇🏼
