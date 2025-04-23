@@ -8,8 +8,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 ### 🌍 "Quanto mais eu sei, mais eu sou" 🧠
 
-- 📍 From RS living in Beagah
-- 💻 Front-End engineer at [Avenue Code](https://www.avenuecode.com/)
+- 📍 From RS
 - 🌈 Sharing a little of my Front-End journey at [Papo de Dev](https://www.instagram.com/papodedev/) 
 
 Reach me out 👇🏼
